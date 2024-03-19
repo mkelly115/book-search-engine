@@ -3,6 +3,7 @@
     "@apollo/client": "^3.9.7",
     "@apollo/server": "^4.10.1",
     "apollo-server-express": "^3.13.0",
+    "bcrypt": "^5.1.1",
     "concurrently": "^8.2.2"
   },
   "scripts": {
