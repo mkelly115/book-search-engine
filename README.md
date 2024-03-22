@@ -13,7 +13,11 @@ This project challenged me in many ways as I worked through the process of refac
 
 # Live Link
 
+https://book-search-engine-gyz5.onrender.com/
 
+# Acknowledgements
+
+Extra assistance was given by Lada Jeribek, ChatGPT, and multiple stackoverflow sources.
 
 # Licensing
 
